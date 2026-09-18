@@ -12,7 +12,7 @@ export const botConfig = {
   presence: {
     // Current online state shown on Discord.
     status: "dnd",
-
+//status has to be correct!
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
     // 0 = Playing
